@@ -1,0 +1,28 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "answers": [],
+      "question": "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>"
+    },
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "question": "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>"
+    },
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "question": "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+    }
+  ],
+  "title": "Attaquez le code !",
+  "guidelines": "<p>Vous venez d'intercepter un messager transportant un message encodé avec le code de César. Malheureusement celui-ci refuse de parler et vous ne connaissez donc pas la clef secrète permettant de décoder le message.</p>\n<p><br></p>\n<p>Collaborez avec votre équipe pour attaquer ce message cryptique et obtenir le message secret</p>",
+  "advancedConfig": true,
+  "allowSkip": true
+}

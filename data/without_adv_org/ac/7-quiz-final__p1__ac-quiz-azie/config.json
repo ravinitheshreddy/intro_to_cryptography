@@ -1,0 +1,27 @@
+{
+  "shuffle": "questions",
+  "questions": [
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "answers": [],
+      "question": "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>"
+    },
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "question": "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>"
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+    }
+  ],
+  "title": "Quiz final",
+  "guidelines": "<p>Réponds aux questions ci-dessous</p>",
+  "advancedConfig": true
+}

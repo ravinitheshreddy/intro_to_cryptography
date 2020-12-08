@@ -1,0 +1,46 @@
+{
+  "_id": "cki4fc7ai00vh01yw0cv60dbj",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "Dz9wHmEWxcQubmTwW",
+      "WefycwLQ4YnmyXxbe",
+      "BasbmZQMvwwLAgtSM",
+      "mL9jSJPubEFdL2hsZ",
+      "Bcei9rADYFhbKCp93",
+      "PireZZS4EC2YtDzr7",
+      "a2Ckwzfe9yionRt8j",
+      "oXAFHcyBLZPrTwCX5",
+      "wBypYSiPx2wm2qK4S",
+      "rgCgM5NdbNyergz9D",
+      "KCwKjQb76cPjzx8JX",
+      "qaQte2MipgdEF5ZTb",
+      "xRSfbze8oF7h9QvFa",
+      "MJq483N8WXHz9MzBk",
+      "iFpwFjqWgCo8c2tRA",
+      "6s6ywfF3aJCdYpQdL"
+    ],
+    "students": {
+      "Dz9wHmEWxcQubmTwW": "Lisa",
+      "WefycwLQ4YnmyXxbe": "Marie",
+      "BasbmZQMvwwLAgtSM": "LOUIS",
+      "mL9jSJPubEFdL2hsZ": "Léa",
+      "Bcei9rADYFhbKCp93": "Nicolas",
+      "PireZZS4EC2YtDzr7": "Emma",
+      "a2Ckwzfe9yionRt8j": "Alicia",
+      "oXAFHcyBLZPrTwCX5": "paula",
+      "wBypYSiPx2wm2qK4S": "capucine",
+      "rgCgM5NdbNyergz9D": "malik",
+      "KCwKjQb76cPjzx8JX": "sonia",
+      "qaQte2MipgdEF5ZTb": "HELIOMOREL",
+      "xRSfbze8oF7h9QvFa": "Henoch",
+      "MJq483N8WXHz9MzBk": "-SEBI-",
+      "iFpwFjqWgCo8c2tRA": "ANTOINE",
+      "6s6ywfF3aJCdYpQdL": "Sahar"
+    }
+  }
+}

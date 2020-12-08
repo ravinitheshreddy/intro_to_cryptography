@@ -1,0 +1,165 @@
+{
+  "_id": "cki49sj8w00tt01yw53hmeopy",
+  "activityData": {
+    "structure": {"groupingKey": "group"},
+    "payload": {
+      "1": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "maitre corbeau, sur un arbre perché tenait en son bec un fromage"
+            },
+            "2": {"text": "La Fontaine"}
+          }
+        }
+      },
+      "2": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "MAITRE CORBEAU, SUR UN ARBRE PERCHE TENAIT EN SON BEC UN FROMAGE"
+            },
+            "2": {"text": "Des fables de La Fontaine"}
+          }
+        }
+      },
+      "3": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "maître corbeau, sur un arbre perché tenait dans son bec un fromage\n:)(: "
+            },
+            "2": {"text": "fable Jean de la Fontaine, le corbeau et le renard"}
+          }
+        }
+      },
+      "4": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "maître corbeau, sur un arbre perché tenait en son bec un fromage\n"
+            },
+            "2": {"text": "La Fontaine "}
+          }
+        }
+      },
+      "5": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {"text": "MAITRE CORBEAU, SUR UN ARBRE PERCHE"},
+            "2": {"text": "La Fontaine"}
+          }
+        }
+      },
+      "6": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "Maitre corbeau sur un arbre perche tenait en son bec un fromage."
+            },
+            "2": {"text": "un fable de La Fontaine"}
+          }
+        }
+      },
+      "7": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {"text": "maître "},
+            "2": {"text": ""}
+          }
+        }
+      },
+      "8": {
+        "data": {
+          "questions": [
+            "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+            "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+            "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          ],
+          "answers": [null, null, null],
+          "answersIndex": [null, -1, -1],
+          "maxCorrect": 3,
+          "coordinates": {"x": 0, "y": 0},
+          "form": {
+            "0": {"text": "", "value": "7"},
+            "1": {
+              "text": "Maitre  corbeau,  sur un arbre perche tenait en son bec un fromage "
+            },
+            "2": {"text": "des fables de la fontaine "}
+          }
+        }
+      }
+    }
+  },
+  "type": "product"
+}

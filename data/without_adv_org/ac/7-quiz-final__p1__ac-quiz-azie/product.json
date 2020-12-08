@@ -1,0 +1,293 @@
+{
+  "structure": "individual",
+  "payload": {
+    "6s6ywfF3aJCdYpQdL": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "BasbmZQMvwwLAgtSM": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "Bcei9rADYFhbKCp93": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "SEI"},
+          "2": {"text": ""}
+        }
+      }
+    },
+    "Dz9wHmEWxcQubmTwW": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "KCwKjQb76cPjzx8JX": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "gkwaddw"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "MJq483N8WXHz9MzBk": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "PireZZS4EC2YtDzr7": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "WefycwLQ4YnmyXxbe": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "a2Ckwzfe9yionRt8j": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "iFpwFjqWgCo8c2tRA": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtnx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "mL9jSJPubEFdL2hsZ": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "17"}
+        }
+      }
+    },
+    "oXAFHcyBLZPrTwCX5": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "qaQte2MipgdEF5ZTb": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "rgCgM5NdbNyergz9D": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "wjdn"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "wBypYSiPx2wm2qK4S": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "GTNX"},
+          "1": {"text": "OSEILLE"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    },
+    "xRSfbze8oF7h9QvFa": {
+      "data": {
+        "questions": [
+          "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>",
+          "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>",
+          "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [-1, -1, null],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "gtbx"},
+          "1": {"text": "oseille"},
+          "2": {"text": "", "value": "22"}
+        }
+      }
+    }
+  }
+}

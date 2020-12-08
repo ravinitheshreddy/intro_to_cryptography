@@ -1,0 +1,78 @@
+{
+  "shuffle": "both",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckh8rtxxy0011446wcvdddkuc\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "DPNQVUFS", "isCorrect": true},
+        {"choice": "DPLOVSFQ"},
+        {"choice": "DPKRVRFP"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckhuuoae200044371iu9qqk5m\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "HMPBSC"},
+        {"choice": "HQPFSG", "isCorrect": true},
+        {"choice": "HFPNSQ"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckhuuov0600064371xinyk3kt\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "ONMMRG"},
+        {"choice": "ONOPRG"},
+        {"choice": "ONYYRG", "isCorrect": true}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckhuur2vn000a4371n7et6fjn\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "QRBDFG"},
+        {"choice": "YRBDJH", "isCorrect": true},
+        {"choice": "SRBDDB"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckhuus8z8000c4371uflmeima\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "VATNYYXNK", "isCorrect": true},
+        {"choice": "VAHNMMXBY"},
+        {"choice": "VAGNEEXYB"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p><img src=\"/minio/uploads/ckhuuy227000d4371n97tk4rh\" width=\"461\" height=\"346\"/></p>",
+      "answers": [
+        {"choice": "IGESGX"},
+        {"choice": "JUESLI"},
+        {"isCorrect": true, "choice": "CAESAR"}
+      ]
+    }
+  ],
+  "advancedConfig": true,
+  "title": "Encodage/décodage avec disque",
+  "guidelines": "<p>Fill the missing letters (represented using \"?\") in the table and choose the correct option</p>",
+  "showOne": false,
+  "hasAnswers": true,
+  "allowSkip": true,
+  "argueWeighting": false
+}

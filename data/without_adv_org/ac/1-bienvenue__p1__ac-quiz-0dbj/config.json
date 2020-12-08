@@ -1,0 +1,15 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "answers": [],
+      "question": "<p>&nbsp;Ton nom est :&nbsp;</p>"
+    }
+  ],
+  "guidelines": "<p>Bienvenue à ce cours d'introduction à la cryptographie :) Merci de nous indiquer ton nom avant de commencer !&nbsp;</p>",
+  "title": "Introduction à la cryptographie",
+  "advancedConfig": true
+}

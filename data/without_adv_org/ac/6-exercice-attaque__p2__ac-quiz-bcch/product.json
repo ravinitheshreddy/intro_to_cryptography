@@ -1,0 +1,101 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "1": {
+      "data": {
+        "questions": [
+          "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+          "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+          "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [null, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "", "value": "1"},
+          "1": {"text": "MAITRE CORBEAU, SUR UN ARBRE PERCHE TENAIT "},
+          "2": {"text": "Jean de la fontaine\nLe corbeau et le renard\n"}
+        }
+      }
+    },
+    "2": {
+      "data": {
+        "questions": [
+          "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+          "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+          "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [null, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "", "value": "7"},
+          "1": {
+            "text": "Maître corbeau, sur un arbre perché tenait en son bec un fromage"
+          },
+          "2": {"text": "Cela provient des fables de Jean de la Fontaine"}
+        }
+      }
+    },
+    "3": {
+      "data": {
+        "questions": [
+          "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+          "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+          "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [null, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "", "value": "7"},
+          "1": {"text": "maitre corbeau, sur un arbre  perché tenant en"},
+          "2": {"text": "les fables de la fontaine, le corbeau et le renard"}
+        }
+      }
+    },
+    "4": {
+      "data": {
+        "questions": [
+          "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+          "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+          "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [null, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "", "value": "7"},
+          "1": {
+            "text": "MAITRE CORBEAU, SUR UN ARBRE PERCHE TENAIT EN SON BEC UN FROMAGE"
+          },
+          "2": {"text": "fable de la fontaine, Jean de la Fontaine"}
+        }
+      }
+    },
+    "5": {
+      "data": {
+        "questions": [
+          "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>",
+          "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>",
+          "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+        ],
+        "answers": [null, null, null],
+        "answersIndex": [null, -1, -1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": "", "value": "7"},
+          "1": {
+            "text": "maitre corbeau, sur un arbre perche tenait en son bec un fromage"
+          },
+          "2": {"text": "Fables de la Fontaine"}
+        }
+      }
+    }
+  }
+}

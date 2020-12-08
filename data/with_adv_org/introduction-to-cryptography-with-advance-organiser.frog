@@ -1,0 +1,382 @@
+{
+  "graph": {
+    "_id": "cki49sj8t00tk01ywel12cv9t",
+    "name": "Introduction to Cryptography with Advance Organiser",
+    "ownerId": "kAGqQvo3pgFJLa9ea",
+    "createdAt": "2020-11-30T08:07:56.525Z",
+    "uiStatus": "active",
+    "graphVersion": 2,
+    "broken": false,
+    "duration": 60,
+    "published": true,
+    "sessionGraph": true
+  },
+  "activities": [
+    {
+      "_id": "cki49sj8v00tl01ywhb6gfn6u",
+      "length": 5,
+      "plane": 1,
+      "startTime": 1,
+      "title": "Encodage/décodage avec disque",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "both",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckh8rtxxy0011446wcvdddkuc\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "DPNQVUFS", "isCorrect": true},
+              {"choice": "DPLOVSFQ"},
+              {"choice": "DPKRVRFP"}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckhuuoae200044371iu9qqk5m\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "HMPBSC"},
+              {"choice": "HQPFSG", "isCorrect": true},
+              {"choice": "HFPNSQ"}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckhuuov0600064371xinyk3kt\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "ONMMRG"},
+              {"choice": "ONOPRG"},
+              {"choice": "ONYYRG", "isCorrect": true}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckhuur2vn000a4371n7et6fjn\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "QRBDFG"},
+              {"choice": "YRBDJH", "isCorrect": true},
+              {"choice": "SRBDDB"}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckhuus8z8000c4371uflmeima\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "VATNYYXNK", "isCorrect": true},
+              {"choice": "VAHNMMXBY"},
+              {"choice": "VAGNEEXYB"}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p><img src=\"/minio/uploads/ckhuuy227000d4371n97tk4rh\" width=\"461\" height=\"346\"/></p>",
+            "answers": [
+              {"choice": "IGESGX"},
+              {"choice": "JUESLI"},
+              {"isCorrect": true, "choice": "CAESAR"}
+            ]
+          }
+        ],
+        "advancedConfig": true,
+        "title": "Encodage/décodage avec disque",
+        "guidelines": "<p>Fill the missing letters (represented using \"?\") in the table and choose the correct option</p>",
+        "showOne": false,
+        "hasAnswers": true,
+        "allowSkip": true,
+        "argueWeighting": false
+      },
+      "actualStartingTime": "2020-11-30T08:11:58.988Z",
+      "actualClosingTime": "2020-11-30T08:16:04.421Z"
+    },
+    {
+      "_id": "cki49sj8w00tm01yw37l830is",
+      "length": 4,
+      "plane": 3,
+      "startTime": 6,
+      "title": "La cryptographie c'est quoi ?",
+      "participationMode": "readonly",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "text": "<p>Regardez la présentation et écoutez les explications :)</p>",
+        "title": "La cryptographie c'est quoi ?"
+      },
+      "actualStartingTime": "2020-11-30T08:16:04.451Z",
+      "actualClosingTime": "2020-11-30T08:26:22.803Z"
+    },
+    {
+      "_id": "cki49sj8w00tn01ywdka0bugo",
+      "length": 6,
+      "plane": 3,
+      "startTime": 10,
+      "title": "Le code de César",
+      "participationMode": "readonly",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "text": "<p>&nbsp;Regardez la présentation et écoutez les explications :)&nbsp;</p>",
+        "title": "Le code de César"
+      },
+      "actualStartingTime": "2020-11-30T08:26:22.851Z",
+      "actualClosingTime": "2020-11-30T08:26:24.616Z"
+    },
+    {
+      "_id": "cki49sj8w00to01ywdj5rbvha",
+      "length": 4,
+      "plane": 3,
+      "startTime": 37,
+      "title": "Conclusion",
+      "participationMode": "readonly",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "text": "<p>Regardez la présentation et écoutez les explications :)&nbsp;&nbsp;</p>",
+        "title": "Conclusion"
+      },
+      "actualStartingTime": "2020-11-30T08:53:59.088Z",
+      "actualClosingTime": "2020-11-30T08:54:00.024Z"
+    },
+    {
+      "_id": "cki49sj8w00tp01ywcf32c78m",
+      "length": 8,
+      "plane": 1,
+      "startTime": 16,
+      "title": "Exercices code de César",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "questions",
+        "questions": [
+          {
+            "question": "<p>&nbsp;Encode le mot \"CHAT\" avec la clé 3.&nbsp;</p>",
+            "text": true
+          },
+          {
+            "question": "<p>&nbsp;Décode le mot \" RJWHN\" qui a été encodé avec une clé de 5.&nbsp;</p>",
+            "text": true
+          },
+          {
+            "question": "<p>&nbsp;Quelle est la clé qui a permis au mot \"BONJOUR\" d'être encodé en \"JWVRWCZ\"&nbsp;&nbsp;</p>",
+            "text": false,
+            "value": true
+          },
+          {
+            "question": "<p>Encode le mot \"APPELER\" avec la clé 10.&nbsp;</p>",
+            "text": true
+          },
+          {
+            "question": "<p>Décode le mot \"JHAOHYZPZ\" qui a été encodé avec une clé de 7.&nbsp;</p>",
+            "text": true
+          },
+          {
+            "question": "<p>Encode le mot \"ENCODAGE\" avec la clé 25.&nbsp;</p>",
+            "text": true
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>Quelle est la clé qui a permis au mot \"POUDRE\" d'être encodé en \"AZFOCP\"&nbsp;&nbsp;&nbsp;</p>"
+          },
+          {
+            "question": "<p>Décode \"VWUJQHLWJ\" qui a été encoder avec la clé 18.&nbsp;</p>",
+            "text": true,
+            "answers": []
+          }
+        ],
+        "title": "Exercices code de César",
+        "guidelines": "<p><br></p>",
+        "advancedConfig": true,
+        "hasAnswers": false,
+        "allowSkip": true
+      },
+      "actualStartingTime": "2020-11-30T08:26:25.173Z",
+      "actualClosingTime": "2020-11-30T08:39:14.885Z"
+    },
+    {
+      "_id": "cki49sj8w00tq01ywf1p48ayr",
+      "length": 5,
+      "plane": 1,
+      "startTime": 32,
+      "title": "Quiz final",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "questions",
+        "questions": [
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "answers": [],
+            "question": "<p>&nbsp;Encode le mot \"BOIS\" avec la clé 5.&nbsp; &nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "question": "<p>Décode le mot \" XBNRUUN\" qui a été encodé avec une clé de 9.&nbsp;&nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>&nbsp;Quelle est la clé qui a permis au mot \"ATMOSPHERE\" d'être encodé en \"WPIKOLDANA\"&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+          }
+        ],
+        "title": "Quiz final",
+        "guidelines": "<p>Réponds aux questions ci-dessous</p>",
+        "advancedConfig": true,
+        "allowSkip": true
+      },
+      "actualStartingTime": "2020-11-30T08:50:48.539Z",
+      "actualClosingTime": "2020-11-30T08:53:59.019Z"
+    },
+    {
+      "_id": "cki49sj8w00tr01yw0nai2gxm",
+      "length": 3,
+      "plane": 3,
+      "startTime": 24,
+      "title": "Attaques sur les messages cryptiques",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Attaques sur les messages cryptiques",
+        "text": "<p>&nbsp;Regardez la présentation et écoutez les explications :)&nbsp;&nbsp;</p>"
+      },
+      "actualStartingTime": "2020-11-30T08:39:14.932Z",
+      "actualClosingTime": "2020-11-30T08:41:44.877Z"
+    },
+    {
+      "_id": "cki49sj8w00ts01ywah7xh93z",
+      "length": 5,
+      "plane": 2,
+      "startTime": 27,
+      "title": "Chat",
+      "groupingKey": "group",
+      "activityType": "ac-chat",
+      "configVersion": 1,
+      "data": {"allowAddingLIs": false},
+      "actualStartingTime": "2020-11-30T08:41:45.182Z",
+      "actualClosingTime": "2020-11-30T08:50:48.365Z"
+    },
+    {
+      "_id": "cki49sj8w00tt01yw53hmeopy",
+      "length": 5,
+      "plane": 2,
+      "startTime": 27,
+      "title": "Exercice attaque",
+      "groupingKey": "group",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "answers": [],
+            "question": "<p>Trouvez la clé qui a servi à encoder ce texte:</p>\n<p>THPAYL JVYILHB, ZBY BU HYIYL WLYJOL ALUHPA LU ZVU ILJ BU MYVTHNL</p>"
+          },
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "question": "<p>Décodez le texte avec la clé que vous avez précédemment trouvé. &nbsp;&nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "question": "<p>&nbsp;<em>Bonus</em>: D'où provient ce texte? Qui l'a écrit?&nbsp;&nbsp;</p>"
+          }
+        ],
+        "title": "Attaquez le code !",
+        "guidelines": "<p>Vous venez d'intercepter un messager transportant un message encodé avec le code de César. Malheureusement celui-ci refuse de parler et vous ne connaissez donc pas la clef secrète permettant de décoder le message.</p>\n<p><br></p>\n<p>Collaborez avec votre équipe pour attaquer ce message cryptique et obtenir le message secret</p>",
+        "advancedConfig": true,
+        "allowSkip": true
+      },
+      "actualStartingTime": "2020-11-30T08:41:45.784Z",
+      "actualClosingTime": "2020-11-30T08:50:48.366Z"
+    },
+    {
+      "_id": "cki49sj8w00tu01ywguc2db1r",
+      "length": 1,
+      "plane": 3,
+      "startTime": 41,
+      "title": "Text Component",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Bonne semaine à tous !",
+        "text": "<p>On se revoit lundi prochain<strong> en classe complète :)</strong></p>"
+      },
+      "actualStartingTime": "2020-11-30T08:54:00.072Z",
+      "actualClosingTime": "2020-11-30T08:54:02.050Z"
+    },
+    {
+      "_id": "cki49sj8w00tv01yw7v3jelc3",
+      "length": 1,
+      "plane": 1,
+      "startTime": 0,
+      "title": "Bienvenue",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "answers": [],
+            "question": "<p>&nbsp;Ton nom est :&nbsp;</p>"
+          }
+        ],
+        "guidelines": "<p>Bienvenue à ce cours d'introduction à la cryptographie :) Merci de nous indiquer ton nom avant de commencer !&nbsp;</p>",
+        "title": "Introduction à la cryptographie",
+        "advancedConfig": true
+      },
+      "actualStartingTime": "2020-11-30T08:10:26.516Z",
+      "actualClosingTime": "2020-11-30T08:11:58.870Z"
+    }
+  ],
+  "operators": [
+    {
+      "_id": "cki49sj8x00tw01yw3si3encs",
+      "time": 25.218749999999996,
+      "type": "social",
+      "y": 131,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {"groupsize": 3, "strategy": "minimum", "grouping": "group"},
+      "configVersion": 1
+    }
+  ],
+  "connections": [
+    {
+      "_id": "cki49sj8x00tx01ywaexvhnoa",
+      "source": {"id": "cki49sj8x00tw01yw3si3encs", "type": "operator"},
+      "target": {"id": "cki49sj8w00ts01ywah7xh93z", "type": "activity"}
+    },
+    {
+      "_id": "cki49sj8x00ty01ywgi85cjwr",
+      "source": {"id": "cki49sj8x00tw01yw3si3encs", "type": "operator"},
+      "target": {"id": "cki49sj8w00tt01yw53hmeopy", "type": "activity"}
+    }
+  ]
+}

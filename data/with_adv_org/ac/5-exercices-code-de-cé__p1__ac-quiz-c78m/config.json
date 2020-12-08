@@ -1,0 +1,46 @@
+{
+  "shuffle": "questions",
+  "questions": [
+    {
+      "question": "<p>&nbsp;Encode le mot \"CHAT\" avec la clé 3.&nbsp;</p>",
+      "text": true
+    },
+    {
+      "question": "<p>&nbsp;Décode le mot \" RJWHN\" qui a été encodé avec une clé de 5.&nbsp;</p>",
+      "text": true
+    },
+    {
+      "question": "<p>&nbsp;Quelle est la clé qui a permis au mot \"BONJOUR\" d'être encodé en \"JWVRWCZ\"&nbsp;&nbsp;</p>",
+      "text": false,
+      "value": true
+    },
+    {
+      "question": "<p>Encode le mot \"APPELER\" avec la clé 10.&nbsp;</p>",
+      "text": true
+    },
+    {
+      "question": "<p>Décode le mot \"JHAOHYZPZ\" qui a été encodé avec une clé de 7.&nbsp;</p>",
+      "text": true
+    },
+    {
+      "question": "<p>Encode le mot \"ENCODAGE\" avec la clé 25.&nbsp;</p>",
+      "text": true
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>Quelle est la clé qui a permis au mot \"POUDRE\" d'être encodé en \"AZFOCP\"&nbsp;&nbsp;&nbsp;</p>"
+    },
+    {
+      "question": "<p>Décode \"VWUJQHLWJ\" qui a été encoder avec la clé 18.&nbsp;</p>",
+      "text": true,
+      "answers": []
+    }
+  ],
+  "title": "Exercices code de César",
+  "guidelines": "<p><br></p>",
+  "advancedConfig": true,
+  "hasAnswers": false,
+  "allowSkip": true
+}

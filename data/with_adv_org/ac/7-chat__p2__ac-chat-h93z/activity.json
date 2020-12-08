@@ -1,0 +1,14 @@
+{
+  "_id": "cki49sj8w00ts01ywah7xh93z",
+  "graphId": "cki49sj8t00tk01ywel12cv9t",
+  "length": 5,
+  "plane": 2,
+  "startTime": 27,
+  "title": "Chat",
+  "groupingKey": "group",
+  "activityType": "ac-chat",
+  "configVersion": 1,
+  "state": "computed",
+  "actualStartingTime": "2020-11-30T08:41:45.182Z",
+  "actualClosingTime": "2020-11-30T08:50:48.365Z"
+}

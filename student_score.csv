@@ -1,4 +1,4 @@
-,student_id,student_name,gender,advance_org,prac_ex_score,group_id,grp_ex_score,final_quiz_score,final_quiz_time(sec)
+,student_id,student_name,gender,discovery_exercise,prac_ex_score,group_id,grp_ex_score,final_quiz_score,final_quiz_time(sec)
 0,7dFrjWJgDe4CvuSY6,eve,F,Yes,7,4,2,3,112
 1,82PbpSzvLk8AJ6Swo,xavier mettraux,M,Yes,8,6,2,3,105
 2,8tWghFsBXWjLDt6F8,gloria,F,Yes,8,2,2,3,90
